@@ -1,3 +1,2 @@
 nbautoeval==0.6.5
-csv
 matplotlib
